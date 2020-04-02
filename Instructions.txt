@@ -1,0 +1,29 @@
+Welcome to Brawler64!
+
+RUNNING THE GAME:
+To play the game, run the Brawler64.jar file with the Java SE Binary (Version 1.8 151).
+
+LAUNCHER:
+The launcher will automatically detect your screens and choose your main screen. 
+By default, the game is in full screen. Using windowed mode may increase performance.
+By default, sound is also turned on (SFX and music). Turning it off will increase performance.
+
+RULES:
+The rules of the game are simple, kill or be killed.
+To win the game, you must win 2 rounds before your enemy does.
+Each round lasts until someone dies or the 2 minute timer runs out.
+A round is won by killing your enemy, or having the most health when the timer runs out.
+
+You can hurt your enemy by punching or kicking him.
+Punch does more damage than kick, but has a shorter range.
+Kick does less damage than punch, but has a longer range.
+You can also use block to stop your enemies attacks, and jump to evade and flank your foe.
+
+CONTROLS:
+Pause - ESC
+Move Left - Left Arrow
+Move Right - Right Arrow
+Jump - Spacebar
+Punch - A
+Kick - S
+Block - D);
